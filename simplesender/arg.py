@@ -24,7 +24,7 @@ class option:
           self.usage+="        -h  --help      :  print this and exit\n"
           self.usage+="        -r  --receive   :  set receiving mode\n"
           self.usage+="        -n  --name      :  server name\n"
-          self.usage+="        -p  --port      :  service port, this require root permition\n"
+          self.usage+="        -p  --port      :  port, this require root permission\n"
           self.usage+="        -f  --file      :  file to send \n"
           self.usage+="        -b  --buffer    :  buffer size\n"
           self.usage+="        -t  --timeout   :  socket timeout in secs\n"
