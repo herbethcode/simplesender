@@ -16,8 +16,8 @@ then
             
     fi
     echo "copying files ...."
-    cp -r src/simplesender /usr/bin/
-    cp -r src/ssender.py /usr/bin
+    cp -r simplesender /usr/bin/
+    cp -r ssender.py /usr/bin
     chmod +x /usr/bin/ssender.py
     echo "copying complete !"
     
