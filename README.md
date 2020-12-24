@@ -1,4 +1,4 @@
-Simplesender is a simple tool that send and receive single file per time from one computer(running linux) to another which are in same network (LAN) local area network.
+Simplesender is a simple tool that sends and receives single file per time from one computer(running linux) to another which are in same network (LAN) local area network.
 
 
 
