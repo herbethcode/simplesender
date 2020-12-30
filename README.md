@@ -3,7 +3,7 @@ Simplesender is a simple tool that sends and receives one file at time from one 
 
 
 @installation
-1. install simplesender script in your machine which running Linux and python 3.6.x
+1. install simplesender script in your machine which running Linux with python 3.x
   open the forder that contains scripts and run the following command "sudo chmod +x install && sudo ./install"
   scripts should be installed.
   
